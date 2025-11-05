@@ -1,7 +1,0 @@
-AxionOS v2.1
-Build Date : 14/10/2025
-- Upstreamed Kernel to 6.1.68
-- Fixed UI Elements Flickering
-- Added HDR Brightness Slider
-- Added Torch light strength control
-- Few More Misc changes

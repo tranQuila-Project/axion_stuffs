@@ -1,13 +1,13 @@
 {
-    "response": [
-        {
-            "datetime": 1762378903,
-            "filename": "axion-2.2-NIGHTLY-20251105-UNOFFICIAL-GMS-veux.zip",
-            "id": "6c772f2b326ca74e579fb3ebaf217064",
-            "romtype": "UNOFFICIAL",
-            "size": 1844584183,
-            "url": "https://github.com/MrTopia/device_xiaomi_veux/releases/download/Axion-061125/axion-2.2-NIGHTLY-20251105-UNOFFICIAL-GMS-veux.zip",
-            "version": "2.2"
-        }
-    ]
+  "response": [
+    {
+      "datetime": 1762981024,
+      "filename": "axion-2.2-NIGHTLY-20251112-COMMUNITY-GMS-veux.zip",
+      "id": "41817c45eb9f5cd68ad1e31ec5aa0b6f",
+      "romtype": "UNOFFICIAL",
+      "size": 1844507303,
+      "url": "https://github.com/MrTopia/device_xiaomi_veux/releases/download/Axion-131125/axion-2.2-NIGHTLY-20251112-COMMUNITY-GMS-veux.zip",
+      "version": "2.2"
+    }
+  ]
 }

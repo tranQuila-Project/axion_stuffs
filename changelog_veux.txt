@@ -1,1 +1,6 @@
-# Initial OTA
+# **Device Changelogs -**
+
+## Dec 13, 2025
+- Synced to **Latest 2.2.1 Source**
+- Initial OTA Update. AxionAOSP Version 2.2.1
+- Next build will be shipped with Positron Kernel... Enjoy :)

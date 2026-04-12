@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1769624530,
-      "filename": "axion-2.4-SOLACE-20260128-COMMUNITY-GMS-veux.zip",
-      "id": "7df54d9e34028382fecb675f696cafb2",
+      "datetime": 1775897988,
+      "filename": "axion-2.5-REVERIE-20260411-COMMUNITY-GMS-veux.zip",
+      "id": "e908229e20086bdf7441267132a0bd94",
       "romtype": "UNOFFICIAL",
-      "size": 2005293894,
-      "url": "https://github.com/MrTopia/device_xiaomi_veux/releases/download/Axion-280126/axion-2.4-SOLACE-20260128-COMMUNITY-GMS-veux.zip",
-      "version": "2.4"
+      "size": 1913310565,
+      "url": "https://github.com/MrTopia/device_xiaomi_veux/releases/download/Axion-110426/axion-2.5-REVERIE-20260411-COMMUNITY-GMS-veux.zip",
+      "version": "2.5"
     }
   ]
 }

@@ -1,5 +1,14 @@
 # **Device Changelogs -**
 
+
+## May 17, 2026
+- Synced to **Latest 2.6 Source**
+- Add per-device Dolby state memory for LunarisDolby
+- Add Support For Kernel-SU Next & Kernel-SU 3.1.0+ versions
+- Remove deprecated TARGET_PROVIDES_AUDIO_EXTNS flag
+- Disable gestural burn in protection
+- Miscellaneous Improvements
+
 ## April 11, 2026
 - Synced to **Latest 2.5 Source**
 - Update blobs from OS1.0.13.0.TKCEUXM

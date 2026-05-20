@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1775897988,
-      "filename": "axion-2.5-REVERIE-20260411-COMMUNITY-GMS-veux.zip",
-      "id": "e908229e20086bdf7441267132a0bd94",
+      "datetime": 1779044451,
+      "filename": "axion-2.6-QUASIS-20260517-COMMUNITY-CORE-veux.zip",
+      "id": "41541a05a23603963c101325d2eb3150",
       "romtype": "UNOFFICIAL",
-      "size": 1913310565,
-      "url": "https://github.com/MrTopia/device_xiaomi_veux/releases/download/Axion-110426/axion-2.5-REVERIE-20260411-COMMUNITY-GMS-veux.zip",
-      "version": "2.5"
+      "size": 1999744019,
+      "url": "https://github.com/MrTopia/device_xiaomi_veux/releases/download/Axion-180526/axion-2.6-QUASIS-20260517-COMMUNITY-CORE-veux.zip",
+      "version": "2.6"
     }
   ]
 }

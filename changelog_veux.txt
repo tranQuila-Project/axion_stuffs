@@ -1,5 +1,11 @@
 # **Device Changelogs -**
 
+## June 10, 2026
+- Synced to **Latest 2.7 Source**
+- Drop Viper4AndroidFX
+- Update telephony package list to LA.QSSI.12.0.r1-05600-qssi.0
+- Set default the Bluetooth class of device
+- Miscellaneous Improvements
 
 ## May 17, 2026
 - Synced to **Latest 2.6 Source**

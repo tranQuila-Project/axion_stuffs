@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1779044451,
-      "filename": "axion-2.6-QUASIS-20260517-COMMUNITY-CORE-veux.zip",
-      "id": "41541a05a23603963c101325d2eb3150",
+      "datetime": 1781088385,
+      "filename": "axion-2.7-PROXIMA_BETA-20260610-COMMUNITY-CORE-veux.zip",
+      "id": "661a6e84294a8fd9e4b4c53da19229eb",
       "romtype": "UNOFFICIAL",
-      "size": 1999744019,
-      "url": "https://github.com/MrTopia/device_xiaomi_veux/releases/download/Axion-180526/axion-2.6-QUASIS-20260517-COMMUNITY-CORE-veux.zip",
-      "version": "2.6"
+      "size": 2023860100,
+      "url": "https://github.com/MrTopia/device_xiaomi_veux/releases/download/Axion-100626/axion-2.7-PROXIMA_BETA-20260610-COMMUNITY-CORE-veux.zip",
+      "version": "2.7"
     }
   ]
 }
